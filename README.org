@@ -1,0 +1,10 @@
+* rate-monotonic
+
+A periodic thread scheduling library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/npatrick04/rate-monotonic.git   |
+| commit  | a8e8302  |
+| systems | rate-monotonic |
+|---------+-------------------------------------------|
+
